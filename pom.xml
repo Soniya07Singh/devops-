@@ -27,7 +27,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>com.example.WelcomeDevOps</mainClass>
+                    <mainClass>com.example</mainClass>
                 </configuration>
             </plugin>
         </plugins>
